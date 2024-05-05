@@ -1,2 +1,2 @@
-# Data_Science
+# Data Science
 Explore about data science
